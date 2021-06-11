@@ -1,4 +1,4 @@
-package com.amazon.ata.interfaces.prework;
+package com.amazon.ata.interfaces;
 
 import org.junit.jupiter.api.Test;
 

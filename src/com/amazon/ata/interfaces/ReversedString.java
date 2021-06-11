@@ -1,4 +1,4 @@
-package com.amazon.ata.interfaces.prework;
+package com.amazon.ata.interfaces;
 
 /**
  * Reverse a String and act like a <code>CharSequence</code>.
