@@ -1,6 +1,6 @@
 ### Interfaces Pre-Work
 
-**Branch Name:** `interfaces-prework`
+**GitHub:** [ebd-polymorphism-interfaces-reversed-string](https://github.com/LambdaSchool/ebd-polymorphism-interfaces-reversed-string)
 
 Open `ReversedString` in the `src/com/amazon/ata/interfaces` package. In this try, you will update
 `ReversedString` to implement the [CharSequence](https://docs.oracle.com/javase/8/docs/api/java/lang/CharSequence.html) 
