@@ -1,7 +1,8 @@
-### Interfaces Pre-Work
+# Interfaces Pre-Work
 
 **GitHub:** [ebd-polymorphism-interfaces-reversed-string](https://github.com/LambdaSchool/ebd-polymorphism-interfaces-reversed-string)
 
+## Instructions 
 Open `ReversedString` in the `src/com/amazon/ata/interfaces` package. In this try, you will update
 `ReversedString` to implement the [CharSequence](https://docs.oracle.com/javase/8/docs/api/java/lang/CharSequence.html) 
 interface found in the java.lang package. The constructor of `ReversedString` accepts a `String` which will 
@@ -25,13 +26,13 @@ You should also override the `toString()` method. This method should print your 
 NOTE: Here we're actually overriding the default implementation of `toString()` that
 we get from the Java `Object` class. More on this in a later lesson (Inheritance).
 
-#### Implement `ReversedString`
+### Implement `ReversedString`
 
 Go ahead and implement the methods indicated above. When you think you're pretty
 close, or have at least declared the necessary methods, you can start looking
 at the test class below to start to check that you're on the right path.
 
-#### Tests
+### Tests
 
 The test class `ReversedStringTest` has tests that are currently testing the `String` class and not your 
 `ReversedString` class. `String` also implements the `CharSequence` interface.
@@ -73,7 +74,7 @@ We didn't have to change any additional code because our code was using methods 
 You should not need to make any other updates to the test code. The rest is up to your
 `ReversedString` class!
 
-#### Goal
+## Goal
 
 When all of the unit tests are testing `ReversedString`, and they are all
 passing, you are finished with this try!
