@@ -1,6 +1,5 @@
 # Interfaces Pre-Work
 
-**GitHub:** [ebd-polymorphism-interfaces-reversed-string](https://github.com/LambdaSchool/ebd-polymorphism-interfaces-reversed-string)
 
 ## Instructions
 Open `ReversedString` in the `src/com/amazon/ata/interfaces` package. In this try, you will update
